@@ -1,0 +1,79 @@
+admin
+admin
+admin@admin.com
+
+1
+
+login: user1
+password: user_123_!
+Jhon
+Tolst
+jhon_t@example.ru
+date join: 2020-12-03
+time: 10:43:57
+
+2
+
+login: user2
+password: user_234_!
+Roben
+Zum
+roben_z@example.ru
+date join: 2020-12-03
+time: 10:49:57
+
+3
+
+user3
+Rin
+Arden
+user_345_!
+rin_a@example.com
+
+4
+
+user4
+Arna
+Urben
+user_456_!
+arna_u@example.com
+
+5
+
+user5
+Dona
+Zhuri
+user_567_!
+dona_z@example.com
+
+6
+
+user6
+Fenaye
+Bon
+user_678_!
+fen_b@example.com
+
+7
+
+user7
+Ann
+Julien
+user_789_!
+an_j@example.com
+
+8
+
+user8
+Van
+Prob
+user_891_!
+van_p@example.com
+
+9
+
+user9
+Ronna
+Prob
+user_1_891_!
+ronna_p@example.com
