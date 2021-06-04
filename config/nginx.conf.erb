@@ -34,8 +34,8 @@ http {
 
     port_in_redirect off;
 
-    location / {
-        root /media/;
+    location /media/ {
+        alias company_images/;
     }
   }
 }
