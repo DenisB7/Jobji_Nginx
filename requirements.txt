@@ -2,12 +2,16 @@ asgiref==3.2.4
 astpretty==2.0.0
 atomicwrites==1.4.0
 attrs==20.3.0
+beautifulsoup4==4.9.3
 bootstrap4==0.1.0
+cachetools==4.2.2
 cognitive-complexity==1.2.0
 colorama==0.4.4
+decorator==4.4.2
 Django==3.0.4
 django-crispy-forms==1.10.0
 django-debug-toolbar==3.2
+django-unicorn==0.28.0
 eradicate==2.0.0
 flake8==3.8.4
 flake8-blind-except==0.1.1
@@ -25,6 +29,7 @@ flake8-print==4.0.0
 flake8-variables-names==0.0.3
 iniconfig==1.1.1
 mccabe==0.6.1
+orjson==3.5.3
 packaging==20.8
 pep8-naming==0.11.1
 Pillow==8.0.1
@@ -35,6 +40,8 @@ pyflakes==2.2.0
 pyparsing==2.4.7
 pytest==6.2.1
 pytz==2019.3
+shortuuid==1.0.1
 six==1.15.0
+soupsieve==2.2.1
 sqlparse==0.3.1
 toml==0.10.2
