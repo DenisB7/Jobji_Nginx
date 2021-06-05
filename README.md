@@ -1,18 +1,9 @@
-# 								Jobji
+# 								Jobji_Nginx
 
-**Jobji** - Django Framework project about job.
+**Jobji** - Django Framework project about job. The same project like this https://github.com/DenisB7/Jobji, but trying to deploy it using gunicorn + Nginx on Heroku.
 
 Some information:
 - you can sign up and sign in, account have a menu where you can create, change, add information about your company, vacancy and/or resume
 - search information
-- deployed on Heroku
-- serving static files with WhiteNoise
-
-This is really better version of this (project was implemented in 2 parts) [github]: https://github.com/DenisB7/stepik_chapter3 (beggining) and this one [github]: https://github.com/DenisB7/stepik_chapter-4 (continue)
-
-**This project was a homework of course** from [Stepik]: https://stepik.org/
-
-
-I've spent a lot of time refactoring this project and it worth it.
-
-I'm new in Django and programming, and always trying to improve my skills.
+- deployed on Heroku with gunicorn
+- serving static files trying to do with Nginx
