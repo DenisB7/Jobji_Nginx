@@ -53,7 +53,6 @@ INSTALLED_APPS = [
     'app_vacancy',
     'accounts',
     'crispy_forms',
-    'unicorn',
 ]
 
 MIDDLEWARE = [
