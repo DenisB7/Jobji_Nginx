@@ -1,1 +1,1 @@
-web: bin/start-nginx gunicorn -c config/gunicorn.conf vacancies.wsgi:application
+web: bin/start-nginx gunicorn -c config/gunicorn.conf vacancies.wsgi
