@@ -8,8 +8,9 @@ Some information:
 - deployed on Heroku with gunicorn
 - serving static files trying to do with Nginx
 
-**Problems:**
+**Problems with deploying on Heroku:**
 1. I have only one static image, it isn't show up.
-2. I want to serve media files also, but can't get it how to do it, if it possible, when you are using web developer mode in your browser it showing that media files served by Nginx (not Gunicorn), so i think it isn't work properly, because it isn't cached.
+2. I want to serve media files also, but can't get it how to do it, if it possible, when you are using web developer mode in your browser it showing that media files served by Nginx (not Gunicorn), so i think it isn't work properly, because it isn't caching.
+3. Is it possible to do server static and media without using Gunicorn, but only Nginx? 
 
 I'm new in all this stuff, so didn't know is it efficient and worth it to puzzle over it? So, any help is appreciated.
