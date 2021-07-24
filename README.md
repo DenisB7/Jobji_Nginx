@@ -10,6 +10,6 @@ Some information:
 
 Questions about deploying on Heroku:
 1. Only one static image didn't appears here /vacancies/1/sent (it doesn't matter which uri you will set 1/2/3/4/5 the same problem appears), which in staticfiles folder, it isn't show up. 
-2. Is it possible to do server static and media without using Gunicorn, but only Nginx? 
+2. Is it possible to run Nginx without using gunicorn? 
 
 I'm new in all this stuff, so didn't know is it efficient and worth it to puzzle over it? So, any help is appreciated.
