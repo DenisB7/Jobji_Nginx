@@ -6,11 +6,10 @@ Some information:
 - you can sign up and sign in, account have a menu where you can create, change, add information about your company, vacancy and/or resume
 - search information
 - deployed on Heroku with gunicorn
-- serving static files trying to do with Nginx
+- serving static files with Nginx
 
 **Problems with deploying on Heroku:**
 1. Only one static image didn't appears, which in staticfiles folder, it isn't show up.
-2. When you are using web developer mode in your browser it showing that media files served by Nginx (not Gunicorn), so i think it isn't work properly, because it isn't caching.
-3. Is it possible to do server static and media without using Gunicorn, but only Nginx? 
+2. Is it possible to do server static and media without using Gunicorn, but only Nginx? 
 
 I'm new in all this stuff, so didn't know is it efficient and worth it to puzzle over it? So, any help is appreciated.
