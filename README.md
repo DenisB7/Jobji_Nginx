@@ -12,4 +12,4 @@ Questions about deploying on Heroku with Nginx:
 1. Only one static image didn't appears here /vacancies/1/sent (it doesn't matter which uri you will set 1/2/3/4/5 the same problem appears), which in staticfiles folder, it isn't show up. 
 2. Is it possible to use Nginx without gunicorn? 
 
-I'm new in all this stuff, so i didn't know is it efficient and worth it to puzzle over it, maybe WhiteNoise is sufficient, because it is much more easy to adjust WhiteNoise than Nginx? What kind of advantages will i have with Nginx on Heroku?
+Is it efficient and worth it to puzzle over it, maybe WhiteNoise is sufficient, because it is much more easy to adjust WhiteNoise than Nginx? What kind of advantages will i have with Nginx on Heroku?
