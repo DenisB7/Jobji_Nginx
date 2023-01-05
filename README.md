@@ -8,6 +8,8 @@ Some information:
 - deployed on Heroku with gunicorn
 - serving static files with Nginx
 
+Technologies: Django, Python, SQLite, Heroku, CSS, HTML, Bootstrap, Gunicorn, WhiteNoise/NGINX, flake8
+
 Questions about deploying on Heroku with Nginx:
 1. Only one static image didn't appears here /vacancies/1/sent (it doesn't matter which uri you will set 1/2/3/4/5 the same problem appears), which in staticfiles folder, it isn't show up. 
 2. Is it possible to use Nginx without gunicorn? 
